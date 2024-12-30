@@ -2,7 +2,7 @@
 
 ### ❖  ＳＵＢＺＥＲＯ - ＭＤ - ＢＯＴ ❖
 
-🔰 **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** 🔰
+❄️ **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** ❄️
 
 ----------
 ## CLICK <a href="https://github.com/mrfrank-ofc/SUBZERO-MD/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
@@ -88,7 +88,7 @@ jobs:
 
  ## SESSION TWO
 <p align="center">
-<a href="https://subzero-session-id-990a832eed4c.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=heroku"></a>
+<a href="https://subzero-md-session-id-732a5ca058f0.herokuapp.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=heroku"></a>
 <p/>
 --------
 
@@ -160,7 +160,7 @@ jobs:
 
 ---------
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/mrfrank-ofc/SUBZERO-MD&branch=main&name=subzero-md&builder=dockerfile&env[OWNER_NUMBER]=263719647303%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=SUBZERO+IS+ONLINE&env[BOT_NAME]=SUBZERO-MD&env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 ------------
 
